@@ -1,4 +1,4 @@
-# Electrostatic Fog Harvester  
+# ElectroFog
 ### Climate-Resilient Water Access System  
 
 ---
